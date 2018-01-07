@@ -1,0 +1,6 @@
+C:\Users\Cecilie\Documents\eCademy\.NET utvikler\Prosjekter\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Cecilie\Documents\eCademy\.NET utvikler\Prosjekter\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Cecilie\Documents\eCademy\.NET utvikler\Prosjekter\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Cecilie\Documents\eCademy\.NET utvikler\Prosjekter\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Cecilie\Documents\eCademy\.NET utvikler\Prosjekter\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Cecilie\Documents\eCademy\.NET utvikler\Prosjekter\Calculator\Calculator\obj\Debug\Calculator.pdb
